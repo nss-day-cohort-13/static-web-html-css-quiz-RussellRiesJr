@@ -24,3 +24,18 @@ article.card {
   background-color: darkgray;
 }
 
+.fat {
+  font-weight: bold;
+}
+
+.dent {
+  text-indent: 2em;
+}
+
+.nomarg {
+  margin: 0;
+}
+
+.tiny {
+  font-size: x-small;
+}
