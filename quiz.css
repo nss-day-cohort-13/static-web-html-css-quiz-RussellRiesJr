@@ -1,0 +1,26 @@
+article.card {
+  width: 30%;
+  height: auto;
+  border: 1px solid lightblue;
+  display: inline-block;
+}
+.title {
+  border: 1px dotted lightgray;
+}
+
+.middle {
+  text-align: center;
+}
+
+.jtrules {
+  text-align: justify;
+  margin: 5px;
+  padding: 5px;
+}
+
+.bility {
+  text-align: left;
+  color: yellow;
+  background-color: darkgray;
+}
+
