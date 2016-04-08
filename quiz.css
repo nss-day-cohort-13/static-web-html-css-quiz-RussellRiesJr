@@ -3,7 +3,10 @@ article.card {
   height: auto;
   border: 1px solid lightblue;
   display: inline-block;
+  margin-bottom: 5px;
 }
+
+
 .title {
   border: 1px dotted lightgray;
 }
