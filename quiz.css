@@ -3,6 +3,7 @@ article.card {
   height: auto;
   border: 1px solid lightblue;
   display: inline-block;
+  vertical-align: top;
   margin: 18px;
 }
 
