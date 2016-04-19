@@ -1,10 +1,10 @@
-article.card {
+.card {
   width: 30%;
   height: auto;
   border: 1px solid lightblue;
   display: inline-block;
   vertical-align: top;
-  margin: 18px;
+  margin: 1%;
 }
 
 .title {
@@ -13,6 +13,11 @@ article.card {
 
 .middle {
   text-align: center;
+}
+
+.imgSize {
+  width: 39%;
+  height: 39%;
 }
 
 .jtrules {
